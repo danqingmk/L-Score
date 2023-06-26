@@ -1,0 +1,1 @@
+"${SCHRODINGER}/run" pose_filter.py pose_filter_1.maegz pose_filter_1-out.maegz -a 'res.num 155' -hbond 1 -a 'res.num 157' -hbond 2 -a 'res.num 88' -hbond 3 -m all -hbond_dist_max 2.5 -hbond_donor_angle 90.0 -hbond_acceptor_angle 60.0 -contact_dist_max 5.0 -ring_dist_max 5.0 -aromatic_dist_max 5.0 -HOST localhost -TMPLAUNCHDIR

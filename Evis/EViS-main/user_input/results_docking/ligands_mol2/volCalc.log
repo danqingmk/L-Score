@@ -1,0 +1,27 @@
+./volume_cluster.py:1295: DeprecationWarning: schrodinger.job.app has been superseded by the use of schrodinger.job.launchapi
+  _app = VOLLigands(__file__, sys.argv[1:])
+========================================
+Job Info...
+
+--------------------------------------------------------------------------------
+JobId          : jianping-X12DAi-N6-0-63e1e902
+Name           : volCalc
+Program        : App
+Host           : jianping-X12DAi-N6
+Dir            : /data/Mukuo/Aurora_B/L-score/EViS-main/user_input/results_docking/ligands_mol2
+HostEntry      : localhost
+JobHost        : jianping-X12DAi-N6
+JobDir         : /home/jianping/Programs/schrodinger2021-2/scratch/jianping/volCalc
+JobSchrodinger : /home/jianping/Programs/schrodinger2021-2
+Commandline    : /home/jianping/Programs/schrodinger2021-2/run /home/jianping/Programs/schrodinger2021-2/mmshare-v5.4/python/common/volume_cluster.py volCalc.mae -j volCalc -g 1.0 -sc -pt asl.mae -OVERWRITE -PROJ /home/jianping/.schrodinger/tmp/Tmp_07Feb2023_1044_47018
+StartTime      : 2023-02-07-14:00:34
+--------------------------------------------------------------------------------
+========================================
+
+ Generating Overlap Volume Matrix... 
+ Job name: volCalc 
+ Total number of structures in volCalc.mae:  900 
+
+Total elapsed time for Overlap Volume  Matrix generation: 42.41 sec
+Overlap Voume Matrix generation completed.
+[running at reduced cpu priority]

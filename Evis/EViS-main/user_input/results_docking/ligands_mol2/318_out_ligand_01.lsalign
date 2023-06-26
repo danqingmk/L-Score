@@ -1,0 +1,84 @@
+
+        QEURY_NAME         TEMPL_NAME PC-score8Q PC-score8T  Pval_PC8Q  Pval_PC8T   JaccardR    RMSD_lb    QUERY_SIZE     TEMPL_SIZE 
+                                                                                                         (Without "H")  (Without "H")
+  4af3_VX6_A_1.pdb ut_ligand_01.pdbqt     0.4315     0.3747   0.986598   0.999996     0.3396     1.9339             33             38
+  2bfy_H1N_A_1.pdb ut_ligand_01.pdbqt     0.4200     0.4090   0.999505   0.999916     0.2500     3.4405             37             38
+  3e5a_VX6_A_1.pdb ut_ligand_01.pdbqt     0.4366     0.3792   0.980154   0.999989     0.2679     1.9234             33             38
+  3ot8_MI5_A_1.pdb ut_ligand_01.pdbqt     0.4242     0.3126   0.952638   1.000000     0.2000     1.9642             28             38
+  3ztx_ZTX_A_1.pdb ut_ligand_01.pdbqt     0.4793     0.4036   0.801675   0.998572     0.3725     2.0833             32             38
+  2qoh_P3Y_A_1.pdb ut_ligand_01.pdbqt     0.4816     0.3549   0.657076   0.999976     0.2692     3.9088             28             38
+  3dk3_SX7_A_1.pdb ut_ligand_01.pdbqt     0.5076     0.3740   0.486690   0.999441     0.3200     2.4413             28             38
+  2xkc_4VQ_A_1.pdb ut_ligand_01.pdbqt     0.4860     0.3709   0.663050   0.999856     0.2885     2.9689             29             38
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+  2xnp_WCX_A_1.pdb ut_ligand_01.pdbqt     0.4056     0.4163   0.999993   0.999937     0.3051     1.9566             39             38
+  2wtw_ZZL_A_1.pdb ut_ligand_01.pdbqt     0.4219     0.3775   0.996496   0.999998     0.3585     2.0111             34             38
+  4ft7_H3K_A_1.pdb ut_ligand_01.pdbqt     0.5477     0.3747   0.234478   0.997268     0.2800     2.8977             26             38
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+  3q6w_Q6W_A_1.pdb ut_ligand_01.pdbqt     0.3937     0.4041   1.000000   0.999995     0.2833     2.6508             39             38
+  2jkm_BII_A_1.pdb ut_ligand_01.pdbqt     0.4867     0.4739   0.881916   0.934203     0.3636     2.1993             37             38
+  3myg_EML_A_1.pdb ut_ligand_01.pdbqt     0.4794     0.3785   0.740115   0.999806     0.4167     1.6995             30             38
+  4ft5_H2K_A_1.pdb ut_ligand_01.pdbqt     0.4340     0.2855   0.843973   1.000000     0.2115     3.0304             25             38
+  2e9v_85A_A_1.pdb ut_ligand_01.pdbqt     0.5494     0.4916   0.402368   0.779459     0.2857     2.0558             34             38
+  2xch_CKG_A_1.pdb ut_ligand_01.pdbqt     0.4351     0.3435   0.952423   1.000000     0.2143     2.8506             30             38
+  2z60_P3Y_A_1.pdb ut_ligand_01.pdbqt     0.4804     0.3540   0.665587   0.999980     0.2692     3.9367             28             38
+  3ot3_22K_A_1.pdb ut_ligand_01.pdbqt     0.4623     0.2919   0.634174   1.000000     0.2653     3.7739             24             38
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+  4fob_0US_A_1.pdb ut_ligand_01.pdbqt     0.4632     0.4876   0.985607   0.930078     0.1818     2.8675             40             38
+  2r0u_M54_A_1.pdb ut_ligand_01.pdbqt     0.4621     0.3770   0.869130   0.999941     0.2545     1.9392             31             38
+  2bmc_MPY_A_1.pdb ut_ligand_01.pdbqt     0.4223     0.4112   0.999312   0.999875     0.3158     2.1260             37             38
+  2wqo_VGK_A_1.pdb ut_ligand_01.pdbqt     0.4461     0.3287   0.870585   1.000000     0.2222     2.2043             28             38
+  2j50_627_A_1.pdb ut_ligand_01.pdbqt     0.4622     0.4257   0.944268   0.996724     0.3036     3.0608             35             38
+  4fyn_0VE_A_1.pdb ut_ligand_01.pdbqt     0.4538     0.3463   0.859320   0.999999     0.3400     1.7471             29             38
+  2ym8_YM8_A_1.pdb ut_ligand_01.pdbqt     0.5177     0.3678   0.396555   0.999448     0.2745     2.3084             27             38
+  3k5u_PFQ_A_1.pdb ut_ligand_01.pdbqt     0.4855     0.3194   0.522329   0.999999     0.2353     3.6021             25             38
+  3miy_B49_A_1.pdb ut_ligand_01.pdbqt     0.4913     0.3750   0.626839   0.999726     0.3673     1.6876             29             38
+  2gdo_12C_A_1.pdb ut_ligand_01.pdbqt     0.4695     0.3707   0.801461   0.999949     0.2143     2.5021             30             38
+  4ft3_H1K_A_1.pdb ut_ligand_01.pdbqt     0.5686     0.3142   0.105403   0.999897     0.2041     3.2087             21             38
+  1wvx_BD4_A_1.pdb ut_ligand_01.pdbqt     0.4362     0.2755   0.798146   1.000000     0.2157     3.3526             24             38
+  2yfx_VGH_A_1.pdb ut_ligand_01.pdbqt     0.4598     0.3630   0.855499   0.999989     0.3333     1.9661             30             38
+  2ywp_A42_A_1.pdb ut_ligand_01.pdbqt     0.4591     0.2779   0.613938   1.000000     0.1509     3.4548             23             38
+  2e9u_A25_A_1.pdb ut_ligand_01.pdbqt     0.6852     0.4328   0.018823   0.806039     0.2917     3.0332             24             38
+  2hzi_JIN_A_1.pdb ut_ligand_01.pdbqt     0.4536     0.3462   0.860318   0.999999     0.3400     1.8882             29             38
+  2no3_859_A_1.pdb ut_ligand_01.pdbqt     0.4674     0.2952   0.600319   1.000000     0.1923     3.0503             24             38
+  3a4o_STU_X_1.pdb ut_ligand_01.pdbqt     0.3922     0.3612   0.999980   1.000000     0.2373     2.5803             35             38
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+  3r7o_M61_A_1.pdb ut_ligand_01.pdbqt     0.3842     0.4045   1.000000   0.999998     0.2188     2.7372             40             38
+  2v7a_627_A_1.pdb ut_ligand_01.pdbqt     0.4257     0.3921   0.996801   0.999979     0.3774     1.8254             35             38
+  2j4z_626_A_1.pdb ut_ligand_01.pdbqt     0.4163     0.3505   0.994621   1.000000     0.3208     2.2039             32             38
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+scoMtx[row_ind][new_col_ind] - scoMtx[row_ind][col_ind]; has a problem
+  3c7q_XIN_A_1.pdb ut_ligand_01.pdbqt     0.4259     0.4483   0.999835   0.996550     0.3220     2.0309             40             38
+  2ym4_4YM_A_1.pdb ut_ligand_01.pdbqt     0.4713     0.3721   0.790746   0.999934     0.2143     3.8334             30             38
+  4dhf_0K6_A_1.pdb ut_ligand_01.pdbqt     0.4577     0.3975   0.928678   0.999692     0.3922     1.7342             33             38
+  2bhh_RYU_A_1.pdb ut_ligand_01.pdbqt     0.5102     0.4162   0.565618   0.990842     0.2778     3.4462             31             38
+  2clq_STU_A_1.pdb ut_ligand_01.pdbqt     0.3730     0.3435   1.000000   1.000000     0.2373     2.5664             35             38
+  3dk7_SX7_A_1.pdb ut_ligand_01.pdbqt     0.5019     0.3698   0.522912   0.999694     0.4043     1.5765             28             38
+  2ds1_1CD_A_1.pdb ut_ligand_01.pdbqt     0.4564     0.3603   0.872105   0.999994     0.2364     2.9264             30             38
+  2bro_DF2_A_1.pdb ut_ligand_01.pdbqt     0.4621     0.3283   0.749233   1.000000     0.2500     4.5015             27             38
+  2xno_ED8_A_1.pdb ut_ligand_01.pdbqt     0.4341     0.4226   0.997047   0.999275     0.2500     2.4227             37             38
+  4im0_1FV_A_1.pdb ut_ligand_01.pdbqt     0.4844     0.4334   0.825860   0.989150     0.3091     2.3318             34             38
+
+Using 0.018834-s to load mol2 files.
+Using 2.94664-s to do LS-align. 
+Totally Using 2.96548-s.
+

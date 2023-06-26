@@ -1,0 +1,1 @@
+"${SCHRODINGER}/run" spectral_cluster.py spectralcluster_auaroab.maegz -j spectralcluster_auaroab -fp_type Linear -fp_ab_type 8 -fp_bits 64 -sim_metric Tanimoto -lambda_cutoff 0.5 -contrib_cutoff 0.0001 -sim_filter_factor 25.0 -HOST localhost -TMPLAUNCHDIR
