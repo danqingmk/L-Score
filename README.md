@@ -4,4 +4,4 @@
 
 
 
-# use tool :  python run_LS.py new_name
+# use tool :  python run_LS.py new_dir_name
