@@ -8,7 +8,7 @@ conda activate your_environment
 ```
 Download the source code of ZeroBind from GitHub::
 ```
-
+git clone https://github.com/danqingmk/Rescore.git
 ```
 ## Executing program
 Rescoring module needs two steps before running the program:
