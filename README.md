@@ -6,7 +6,7 @@ Rescoring module is built on Python3, we recommend using Anaconda environment as
 conda create -n your_environment python==3.7
 conda activate your_environment
 ```
-Download the source code of ZeroBind from GitHub::
+Download the source code of rescore from GitHub:
 ```
 git clone https://github.com/danqingmk/Rescore.git
 ```
