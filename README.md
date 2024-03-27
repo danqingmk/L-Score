@@ -1,4 +1,4 @@
-# Rescore
+# L-Score
 The rescoring module uses pocket similarity search algorithm PPS-align to obtain the top 50 template pockets with similarity score, and the compound library was then rescored using the ligand similarity comparison algorithm LS-align with the corresponding cocrystal ligand as the template ligands.
 ## Installation
 Rescoring module is built on Python3, we recommend using Anaconda environment as enviroment management. The virtual environment can be created as follows:
