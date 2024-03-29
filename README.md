@@ -14,7 +14,7 @@ git clone https://github.com/danqingmk/L-Score.git
 Rescoring module needs two steps before running the program:
 1. prepare the screening compounds (MOL2 format) and pocket ('.POC' format) into the input folder.
 put all compounds (MOL2 format) into (user_input/results_docking/ligand_mol2/) subfolder.
-put the pocket file (named as "5N2S.poc") into the (user_input/results_docking/pocket/) subfolder.
+put the pocket file (named as "4AF3.poc") into the (user_input/results_docking/pocket/) subfolder.
 The pocket is like as:
 ```
 POC     4AF3
