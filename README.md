@@ -32,9 +32,9 @@ ATOM     11  C   GLY A  84      24.722 -27.969  -8.445  1.00 74.98           C
 ...
 TRE
 ```
-2. L_Score.py
+2. run_LS.py
 ```
-python L_Score.py
+python run_LS.py
 ```
 ## Examples of results
 ```
