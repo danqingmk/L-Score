@@ -1,0 +1,42 @@
+
+        QEURY_NAME         TEMPL_NAME   PPSscore       Pval   JaccardR   RMSD_ali   SeqIdent QUERY_SIZE TEMPL_SIZE
+              4AF3   9xia_DFR_A_1.pdb     0.4387 0.10739016     0.4167     1.3534     0.0000         20         14
+
+
+===================================================================
+d0 = 2.1725
+===================================================================
+Rotation Matrix Information                                        
+===================================================================
+i              t[i]         u[i][0]         u[i][1]         u[i][2]
+0     23.7832941782   -0.0542461501   -0.0030082917   -0.9985230620
+1      5.1146326117    0.7162367433   -0.6968858418   -0.0368110176
+2     56.8375652462   -0.6957458463   -0.7171757621    0.0399580230
+
+Code for rotating Structure Query from (x,y,z) to (X,Y,Z):
+for(k=0; k<L; k++)
+{
+   X[k] = t[0] + u[0][0]*x[k] + u[0][1]*y[k] + u[0][2]*z[k]
+   Y[k] = t[1] + u[1][0]*x[k] + u[1][1]*y[k] + u[1][2]*z[k]
+   Z[k] = t[2] + u[2][0]*x[k] + u[2][1]*y[k] + u[2][2]*z[k]
+}
+
+
+================================================================================
+Pocket Alignment Information                                                    
+================================================================================
+Query AA Index:        83   88   91  104  106  138  155  161  217  219 
+Query AA Type:          L    F    V    A    K    L    E    E    A    F 
+Aligned Tag:            .    .    :    .    :    .    .    .    :    . 
+Aligned Distance:    1.08 1.53 0.77 1.06 0.63 1.33 2.29 1.48 0.95 1.61 
+Templ AA Type:          E    N    D    D    H    H    W    W    T    M 
+Templ AA Index:       217  215  245  287  285   54   16  137   90   88 
+    
+
+
+Query pocket number : 1
+Template pocket number : 1
+Using 0-s to load poc files.
+Using 0.01-s to run PPS-align. 
+Totally Using 0.010000-s
+
